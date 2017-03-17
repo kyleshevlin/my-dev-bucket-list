@@ -4,7 +4,7 @@ I think many of us have hopes and dreams we would like to achieve before we die.
 
 Some of these goals will follow divergent paths, so it's possible that two goals are diametrically opposed and will not both be achieved.
 
-My goal is to modify and revise this list as time goes. We all know that circumstances can change, and plans need revisiting from time to time. My hope is to see my green (+) commits than red (-) commits as time goes on.
+My goal is to modify and revise this list as time goes. We all know that circumstances can change, and plans need revisiting from time to time. My hope is to see more green (+) commits than red (-) commits as time goes on.
 
 So in no particular order, here's my list:
 
